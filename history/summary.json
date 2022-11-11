@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 580,
-    "timeWeek": 580,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "time": 571,
+    "timeDay": 571,
+    "timeWeek": 571,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bentleyhensel.com.ico",
     "slug": "bentley-hensel-com",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 91,
+    "timeDay": 91,
+    "timeWeek": 91,
+    "timeMonth": 91,
+    "timeYear": 91,
     "dailyMinutesDown": {
-      "2022-11-11": 22
+      "2022-11-11": 38
     }
   }
 ]
