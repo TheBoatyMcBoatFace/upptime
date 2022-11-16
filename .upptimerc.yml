@@ -14,12 +14,12 @@ sites:
     url: https://mail.omegatool.us
   - name: Storm
     url: https://storm.omegatool.us
-    name: AdminyMcAdminFace
-  - url: https//portainer.beltway-buzz.com
-    name: Beltway Buzzy
-  - url: https://media.beltway-buzz.com
-    name: Ashley & Abby
-  - url: https://ashleyabby.info
+  - name: AdminyMcAdminFace
+    url: https//portainer.beltway-buzz.com
+  - name: Beltway Buzzy
+    url: https://media.beltway-buzz.com
+  - name: Ashley & Abby
+    url: https://ashleyabby.info
 
 
 status-website:
