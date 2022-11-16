@@ -6,7 +6,7 @@ sites:
   - name: VA.gov
     url: https://www.va.gov
   - name: BentleyHensel.com
-    url: https://bentleyhensel.com
+    url: https://bentleyhensel.com/
     method: GET
   - name: Yosemite
     url: https://yosemite.omegatool.us
