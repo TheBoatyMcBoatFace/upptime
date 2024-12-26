@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bentleyhensel.com.ico",
     "slug": "bentley-hensel-com",
     "status": "up",
-    "uptime": "86.40%",
+    "uptime": "86.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.26%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "86.38%",
+    "uptimeYear": "87.20%",
     "time": 372,
-    "timeDay": 187,
-    "timeWeek": 238,
-    "timeMonth": 272,
-    "timeYear": 266,
+    "timeDay": 430,
+    "timeWeek": 310,
+    "timeMonth": 279,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2024-12-17": 176,
       "2024-11-12": 183,
@@ -69,10 +69,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440,
-      "2023-12-26": 1440,
-      "2023-12-25": 1440
+      "2023-12-28": 1440
     }
   },
   {
@@ -105,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 114,
-    "timeWeek": 128,
-    "timeMonth": 120,
+    "timeDay": 59,
+    "timeWeek": 112,
+    "timeMonth": 118,
     "timeYear": 99,
     "dailyMinutesDown": {}
   },
@@ -117,18 +114,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashleyabby.info.ico",
     "slug": "ashley-and-abby",
     "status": "down",
-    "uptime": "50.76%",
+    "uptime": "50.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 291,
+    "time": 296,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-23": 31,
+      "2024-12-26": 29,
+      "2024-12-25": 1440,
+      "2024-12-24": 1440,
+      "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -489,10 +489,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440,
-      "2023-12-26": 1440,
-      "2023-12-25": 1440
+      "2023-12-28": 1440
     }
   },
   {
@@ -501,18 +498,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/magic.bfhensel.com.ico",
     "slug": "magic",
     "status": "down",
-    "uptime": "10.07%",
+    "uptime": "10.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 101,
-    "timeDay": 76,
-    "timeWeek": 115,
-    "timeMonth": 106,
+    "timeDay": 100,
+    "timeWeek": 101,
+    "timeMonth": 109,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-12-23": 31,
+      "2024-12-26": 29,
+      "2024-12-25": 1440,
+      "2024-12-24": 1440,
+      "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -873,10 +873,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440,
-      "2023-12-26": 1440,
-      "2023-12-25": 1440
+      "2023-12-28": 1440
     }
   },
   {
@@ -885,7 +882,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-frontend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-frontend",
     "status": "down",
-    "uptime": "12.88%",
+    "uptime": "12.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -896,7 +893,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-23": 31,
+      "2024-12-26": 29,
+      "2024-12-25": 1440,
+      "2024-12-24": 1440,
+      "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -1257,10 +1257,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440,
-      "2023-12-26": 1440,
-      "2023-12-25": 1440
+      "2023-12-28": 1440
     }
   },
   {
@@ -1269,7 +1266,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-backend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-backend",
     "status": "down",
-    "uptime": "12.88%",
+    "uptime": "12.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1280,7 +1277,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-23": 31,
+      "2024-12-26": 29,
+      "2024-12-25": 1440,
+      "2024-12-24": 1440,
+      "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -1641,10 +1641,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440,
-      "2023-12-26": 1440,
-      "2023-12-25": 1440
+      "2023-12-28": 1440
     }
   }
 ]
