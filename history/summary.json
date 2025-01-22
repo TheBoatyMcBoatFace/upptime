@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bentleyhensel.com.ico",
     "slug": "bentley-hensel-com",
     "status": "up",
-    "uptime": "86.82%",
+    "uptime": "86.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.92%",
     "uptimeMonth": "98.70%",
-    "uptimeYear": "93.94%",
-    "time": 365,
-    "timeDay": 411,
-    "timeWeek": 268,
-    "timeMonth": 280,
-    "timeYear": 279,
+    "uptimeYear": "94.49%",
+    "time": 363,
+    "timeDay": 410,
+    "timeWeek": 281,
+    "timeMonth": 283,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2025-01-16": 512,
       "2025-01-11": 27,
@@ -45,9 +45,7 @@
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
-      "2024-01-24": 1440,
-      "2024-01-23": 1440,
-      "2024-01-22": 1440
+      "2024-01-24": 1440
     }
   },
   {
@@ -80,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 78,
-    "timeWeek": 99,
-    "timeMonth": 105,
+    "timeDay": 66,
+    "timeWeek": 101,
+    "timeMonth": 104,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -92,18 +90,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashleyabby.info.ico",
     "slug": "ashley-and-abby",
     "status": "down",
-    "uptime": "48.97%",
+    "uptime": "48.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 332,
+    "time": 337,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-20": 30,
+      "2025-01-22": 29,
+      "2025-01-21": 1440,
+      "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
@@ -465,9 +465,7 @@
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
-      "2024-01-24": 1440,
-      "2024-01-23": 1440,
-      "2024-01-22": 1440
+      "2024-01-24": 1440
     }
   },
   {
@@ -476,18 +474,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/magic.bfhensel.com.ico",
     "slug": "magic",
     "status": "down",
-    "uptime": "9.69%",
+    "uptime": "9.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 101,
-    "timeDay": 106,
-    "timeWeek": 124,
-    "timeMonth": 105,
+    "timeDay": 76,
+    "timeWeek": 113,
+    "timeMonth": 104,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-01-20": 30,
+      "2025-01-22": 29,
+      "2025-01-21": 1440,
+      "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
@@ -849,9 +849,7 @@
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
-      "2024-01-24": 1440,
-      "2024-01-23": 1440,
-      "2024-01-22": 1440
+      "2024-01-24": 1440
     }
   },
   {
@@ -860,7 +858,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-frontend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-frontend",
     "status": "down",
-    "uptime": "12.39%",
+    "uptime": "12.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -871,7 +869,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-20": 30,
+      "2025-01-22": 29,
+      "2025-01-21": 1440,
+      "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
@@ -1233,9 +1233,7 @@
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
-      "2024-01-24": 1440,
-      "2024-01-23": 1440,
-      "2024-01-22": 1440
+      "2024-01-24": 1440
     }
   },
   {
@@ -1244,7 +1242,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-backend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-backend",
     "status": "down",
-    "uptime": "12.39%",
+    "uptime": "12.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1255,7 +1253,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-20": 30,
+      "2025-01-22": 29,
+      "2025-01-21": 1440,
+      "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
@@ -1617,9 +1617,7 @@
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
-      "2024-01-24": 1440,
-      "2024-01-23": 1440,
-      "2024-01-22": 1440
+      "2024-01-24": 1440
     }
   }
 ]
