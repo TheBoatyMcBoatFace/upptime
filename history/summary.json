@@ -5,18 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/bentleyhensel.com.ico",
     "slug": "bentley-hensel-com",
     "status": "down",
-    "uptime": "81.91%",
+    "uptime": "81.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.43%",
-    "time": 316,
-    "timeDay": 167,
+    "uptimeYear": "81.88%",
+    "time": 313,
+    "timeDay": 70,
     "timeWeek": 114,
     "timeMonth": 112,
-    "timeYear": 262,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-05-27": 34,
+      "2025-05-29": 34,
+      "2025-05-28": 1440,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -119,18 +121,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.beltway-buzz.com.ico",
     "slug": "beltway-buzzy",
     "status": "down",
-    "uptime": "85.87%",
+    "uptime": "85.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "65.96%",
+    "uptimeYear": "65.41%",
     "time": 108,
-    "timeDay": 173,
-    "timeWeek": 130,
-    "timeMonth": 126,
+    "timeDay": 120,
+    "timeWeek": 128,
+    "timeMonth": 125,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-05-27": 34,
+      "2025-05-29": 34,
+      "2025-05-28": 1440,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -264,7 +268,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashleyabby.info.ico",
     "slug": "ashley-and-abby",
     "status": "down",
-    "uptime": "42.23%",
+    "uptime": "42.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -275,7 +279,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 34,
+      "2025-05-29": 34,
+      "2025-05-28": 1440,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -637,9 +643,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-30": 1440
     }
   },
   {
@@ -648,18 +652,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/magic.bfhensel.com.ico",
     "slug": "magic",
     "status": "down",
-    "uptime": "8.25%",
+    "uptime": "8.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 122,
-    "timeDay": 161,
-    "timeWeek": 121,
+    "timeDay": 113,
+    "timeWeek": 126,
     "timeMonth": 132,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2025-05-27": 34,
+      "2025-05-29": 34,
+      "2025-05-28": 1440,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -1021,9 +1027,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-30": 1440
     }
   },
   {
@@ -1032,7 +1036,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-frontend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-frontend",
     "status": "down",
-    "uptime": "10.55%",
+    "uptime": "10.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1043,7 +1047,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 34,
+      "2025-05-29": 35,
+      "2025-05-28": 1440,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -1405,9 +1411,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-30": 1440
     }
   },
   {
@@ -1416,7 +1420,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-backend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-backend",
     "status": "down",
-    "uptime": "10.55%",
+    "uptime": "10.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1427,7 +1431,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 34,
+      "2025-05-29": 35,
+      "2025-05-28": 1440,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -1789,9 +1795,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-30": 1440
     }
   }
 ]
