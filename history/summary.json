@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bentleyhensel.com.ico",
     "slug": "bentley-hensel-com",
     "status": "down",
-    "uptime": "77.88%",
+    "uptime": "77.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.28%",
+    "uptimeYear": "69.01%",
     "time": 255,
-    "timeDay": 141,
-    "timeWeek": 138,
-    "timeMonth": 133,
+    "timeDay": 74,
+    "timeWeek": 108,
+    "timeMonth": 129,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-07-14": 39,
+      "2025-07-15": 37,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -166,18 +167,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.beltway-buzz.com.ico",
     "slug": "beltway-buzzy",
     "status": "down",
-    "uptime": "81.62%",
+    "uptime": "81.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "52.81%",
+    "uptimeYear": "52.54%",
     "time": 113,
-    "timeDay": 124,
-    "timeWeek": 122,
-    "timeMonth": 135,
+    "timeDay": 127,
+    "timeWeek": 120,
+    "timeMonth": 134,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-07-14": 39,
+      "2025-07-15": 37,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -359,7 +361,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashleyabby.info.ico",
     "slug": "ashley-and-abby",
     "status": "down",
-    "uptime": "40.14%",
+    "uptime": "40.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -370,7 +372,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 39,
+      "2025-07-15": 37,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -733,8 +736,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -743,18 +745,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/magic.bfhensel.com.ico",
     "slug": "magic",
     "status": "down",
-    "uptime": "7.82%",
+    "uptime": "7.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 127,
-    "timeDay": 142,
-    "timeWeek": 133,
-    "timeMonth": 138,
+    "timeDay": 158,
+    "timeWeek": 143,
+    "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-07-14": 39,
+      "2025-07-15": 37,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -1117,8 +1120,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -1127,7 +1129,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-frontend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-frontend",
     "status": "down",
-    "uptime": "9.99%",
+    "uptime": "9.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1138,7 +1140,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 39,
+      "2025-07-15": 38,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -1501,8 +1504,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -1511,7 +1513,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-backend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-backend",
     "status": "down",
-    "uptime": "9.99%",
+    "uptime": "9.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1522,7 +1524,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 39,
+      "2025-07-15": 38,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -1885,8 +1888,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   }
 ]
