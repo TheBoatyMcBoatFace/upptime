@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bentleyhensel.com.ico",
     "slug": "bentley-hensel-com",
     "status": "down",
-    "uptime": "76.09%",
+    "uptime": "76.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.98%",
-    "time": 246,
-    "timeDay": 158,
-    "timeWeek": 154,
+    "uptimeYear": "62.71%",
+    "time": 245,
+    "timeDay": 169,
+    "timeWeek": 157,
     "timeMonth": 145,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-08-06": 38,
+      "2025-08-07": 39,
+      "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -188,18 +189,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.beltway-buzz.com.ico",
     "slug": "beltway-buzzy",
     "status": "down",
-    "uptime": "79.73%",
+    "uptime": "79.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.51%",
+    "uptimeYear": "46.24%",
     "time": 115,
-    "timeDay": 84,
-    "timeWeek": 131,
+    "timeDay": 226,
+    "timeWeek": 141,
     "timeMonth": 133,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-08-06": 38,
+      "2025-08-07": 39,
+      "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -404,7 +406,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashleyabby.info.ico",
     "slug": "ashley-and-abby",
     "status": "down",
-    "uptime": "39.21%",
+    "uptime": "39.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -415,7 +417,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-06": 38,
+      "2025-08-07": 39,
+      "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -778,8 +781,7 @@
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
-      "2024-08-08": 1440,
-      "2024-08-07": 1440
+      "2024-08-08": 1440
     }
   },
   {
@@ -788,18 +790,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/magic.bfhensel.com.ico",
     "slug": "magic",
     "status": "down",
-    "uptime": "7.62%",
+    "uptime": "7.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 129,
-    "timeDay": 141,
-    "timeWeek": 125,
-    "timeMonth": 124,
-    "timeYear": 137,
+    "timeDay": 225,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-08-06": 38,
+      "2025-08-07": 39,
+      "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -1162,8 +1165,7 @@
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
-      "2024-08-08": 1440,
-      "2024-08-07": 1440
+      "2024-08-08": 1440
     }
   },
   {
@@ -1172,7 +1174,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-frontend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-frontend",
     "status": "down",
-    "uptime": "9.75%",
+    "uptime": "9.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1183,7 +1185,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-06": 38,
+      "2025-08-07": 39,
+      "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -1546,8 +1549,7 @@
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
-      "2024-08-08": 1440,
-      "2024-08-07": 1440
+      "2024-08-08": 1440
     }
   },
   {
@@ -1556,7 +1558,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-backend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-backend",
     "status": "down",
-    "uptime": "9.75%",
+    "uptime": "9.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1567,7 +1569,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-06": 38,
+      "2025-08-07": 39,
+      "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -1930,8 +1933,7 @@
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
-      "2024-08-08": 1440,
-      "2024-08-07": 1440
+      "2024-08-08": 1440
     }
   }
 ]
