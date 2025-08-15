@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bentleyhensel.com.ico",
     "slug": "bentley-hensel-com",
     "status": "down",
-    "uptime": "75.49%",
+    "uptime": "75.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.82%",
+    "uptimeYear": "60.54%",
     "time": 243,
-    "timeDay": 100,
-    "timeWeek": 122,
-    "timeMonth": 142,
+    "timeDay": 127,
+    "timeWeek": 117,
+    "timeMonth": 143,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-08-14": 35,
+      "2025-08-15": 36,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -167,8 +168,7 @@
       "2024-12-17": 176,
       "2024-11-12": 183,
       "2024-08-24": 1377,
-      "2024-08-23": 91,
-      "2024-08-15": 59
+      "2024-08-23": 91
     }
   },
   {
@@ -195,18 +195,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.beltway-buzz.com.ico",
     "slug": "beltway-buzzy",
     "status": "down",
-    "uptime": "79.09%",
+    "uptime": "79.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.32%",
-    "time": 115,
-    "timeDay": 124,
-    "timeWeek": 126,
-    "timeMonth": 134,
-    "timeYear": 123,
+    "uptimeYear": "44.04%",
+    "time": 116,
+    "timeDay": 506,
+    "timeWeek": 175,
+    "timeMonth": 147,
+    "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-08-14": 35,
+      "2025-08-15": 36,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -419,7 +420,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashleyabby.info.ico",
     "slug": "ashley-and-abby",
     "status": "down",
-    "uptime": "38.89%",
+    "uptime": "38.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -430,7 +431,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-14": 35,
+      "2025-08-15": 36,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -793,8 +795,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   },
   {
@@ -803,18 +804,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/magic.bfhensel.com.ico",
     "slug": "magic",
     "status": "down",
-    "uptime": "7.56%",
+    "uptime": "7.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 129,
-    "timeDay": 83,
-    "timeWeek": 114,
-    "timeMonth": 122,
+    "timeDay": 226,
+    "timeWeek": 128,
+    "timeMonth": 125,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-08-14": 35,
+      "2025-08-15": 36,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1177,8 +1179,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   },
   {
@@ -1187,7 +1188,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-frontend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-frontend",
     "status": "down",
-    "uptime": "9.66%",
+    "uptime": "9.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1198,7 +1199,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-14": 35,
+      "2025-08-15": 36,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1561,8 +1563,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   },
   {
@@ -1571,7 +1572,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-backend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-backend",
     "status": "down",
-    "uptime": "9.66%",
+    "uptime": "9.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1582,7 +1583,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-14": 35,
+      "2025-08-15": 36,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1945,8 +1947,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   }
 ]
