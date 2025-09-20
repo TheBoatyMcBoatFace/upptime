@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bentleyhensel.com.ico",
     "slug": "bentley-hensel-com",
     "status": "down",
-    "uptime": "72.88%",
+    "uptime": "72.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.23%",
+    "uptimeYear": "50.96%",
     "time": 235,
-    "timeDay": 357,
-    "timeWeek": 177,
-    "timeMonth": 186,
-    "timeYear": 219,
+    "timeDay": 159,
+    "timeWeek": 176,
+    "timeMonth": 188,
+    "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-09-19": 116,
+      "2025-09-20": 110,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -228,18 +229,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.beltway-buzz.com.ico",
     "slug": "beltway-buzzy",
     "status": "down",
-    "uptime": "76.34%",
+    "uptime": "76.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.44%",
+    "uptimeYear": "34.17%",
     "time": 123,
-    "timeDay": 213,
-    "timeWeek": 157,
-    "timeMonth": 186,
-    "timeYear": 131,
+    "timeDay": 172,
+    "timeWeek": 159,
+    "timeMonth": 187,
+    "timeYear": 132,
     "dailyMinutesDown": {
-      "2025-09-19": 116,
+      "2025-09-20": 110,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -488,7 +490,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashleyabby.info.ico",
     "slug": "ashley-and-abby",
     "status": "down",
-    "uptime": "37.54%",
+    "uptime": "37.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -499,7 +501,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-19": 116,
+      "2025-09-20": 110,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -862,8 +865,7 @@
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
-      "2024-09-21": 1440,
-      "2024-09-20": 1440
+      "2024-09-21": 1440
     }
   },
   {
@@ -872,18 +874,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/magic.bfhensel.com.ico",
     "slug": "magic",
     "status": "down",
-    "uptime": "7.28%",
+    "uptime": "7.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 136,
-    "timeDay": 199,
+    "timeDay": 151,
     "timeWeek": 150,
     "timeMonth": 207,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-09-19": 116,
+      "2025-09-20": 110,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -1246,8 +1249,7 @@
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
-      "2024-09-21": 1440,
-      "2024-09-20": 1440
+      "2024-09-21": 1440
     }
   },
   {
@@ -1267,7 +1269,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-19": 116,
+      "2025-09-20": 110,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -1630,8 +1633,7 @@
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
-      "2024-09-21": 1440,
-      "2024-09-20": 1440
+      "2024-09-21": 1440
     }
   },
   {
@@ -1640,7 +1642,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a11ywatch-backend.public-sector-a11y.app.civicactions.net.ico",
     "slug": "a11y-watch-backend",
     "status": "down",
-    "uptime": "9.31%",
+    "uptime": "9.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1651,7 +1653,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-19": 116,
+      "2025-09-20": 110,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -2014,8 +2017,7 @@
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
-      "2024-09-21": 1440,
-      "2024-09-20": 1440
+      "2024-09-21": 1440
     }
   }
 ]
